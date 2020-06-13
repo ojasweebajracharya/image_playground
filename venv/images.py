@@ -1,3 +1,4 @@
+# Experimenting with Pillow
 from PIL import Image, ImageFilter
 
 img = Image.open("./Pokedex/pikachu.jpg")
